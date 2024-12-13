@@ -9,8 +9,12 @@ function App() {
   return (
     <>
       <div>
-        home page !!!!!
-       </div>
+        <ul>
+          <li >home</li>
+          <li>about</li>
+          
+        </ul>
+      </div>
     </>
   )
 }
